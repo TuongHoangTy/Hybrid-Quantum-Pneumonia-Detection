@@ -1,5 +1,5 @@
 # Resource-Efficient Pneumonia Detection using Hybrid Quantum-Classical Transfer Learning 🫁⚛️
-
+# Note Important: In the project have file Checkpoint use save results of the ago before, If you want to run begin then need delete file this and edit url different
 This repository contains the official implementation for the research paper: **"Resource-Efficient Pneumonia Detection using Hybrid Quantum-Classical Transfer Learning"**.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
